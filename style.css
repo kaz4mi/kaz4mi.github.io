@@ -85,5 +85,5 @@ a > span {
     padding: 0px 20px;
 }
 @media (max-width:650px) {
-  .content{width: 80px}
+ .content{width: 150px !important}
   }
