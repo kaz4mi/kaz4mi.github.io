@@ -1,9 +1,7 @@
 body {
  background: linear-gradient(rgb(174, 0, 255), rgb(51, 13, 77));
     font-family: "InterTight";
-    margin: 0;
     user-select: none;
-   width: 100vw
 }
   @font-face {
     font-display: swap;
