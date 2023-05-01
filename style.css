@@ -1,7 +1,7 @@
 body {
   margin: 0;
   background: rgb(51, 13, 77);
- background: linear-gradient(rgb(25, 0, 51), rgb(127, 0, 255)) no-repeat;
+ background: linear-gradient(rgb(25, 0, 51), rgb(75,0,130)) no-repeat;
     font-family: "InterTight";
     user-select: none;
 }
