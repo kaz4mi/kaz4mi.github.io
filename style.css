@@ -36,7 +36,7 @@ font-family: "Mulish";
     justify-content: center
   }
 .btn {
-    background: rgba(123, 63, 146, 25%);
+    background: rgba(41, 58, 153, 0.25);
     border-radius: 10px;
     display: inline-flex;
     margin: 5px;
