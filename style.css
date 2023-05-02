@@ -1,5 +1,5 @@
 body {
-font-family: "SpaceGrotesk";
+font-family: "Mulish";
   margin: 0;
   background: #0f0c29; /* fallback for old browsers */
   background: -webkit-linear-gradient(to right, #0f0c29, #302b63, #24243e); /* Chrome 10-25, Safari 5.1-6 */
@@ -7,17 +7,17 @@ font-family: "SpaceGrotesk";
 }
   @font-face {
     font-display: swap;
-    font-family: "SpaceGrotesk";
+    font-family: "Mulish";
     font-style: normal;
     font-weight: 400;
-    src: url(fonts/SpaceGrotesk-Medium.woff2)format(woff2)
+    src: url(fonts/Mulish-Medium.woff2)format(woff2)
   }
   @font-face {
     font-display: swap;
-    font-family: "SpaceGrotesk";
+    font-family: "Mulish";
     font-style: normal;
     font-weight: 700;
-    src: url(fonts/SpaceGrotesk-Bold.woff2)format(woff2)
+    src: url(fonts/Mulish-Bold.woff2)format(woff2)
   }
   content{
     padding: 10px 25px;
