@@ -76,6 +76,10 @@ a > span {
   #telegram:hover {
     background: #26A5E4;
   }
+  #yandex:hover {
+    background: #FFFF00;
+  }
+
   h1{
     font-weight: bold;
   }
