@@ -200,18 +200,3 @@ a > span {
   display: none
 }
 
-
-
-/* CSS сворачивание */
-// JavaScript
-$('#menu-opener').click(function() {
-  $('body').addClass('menu-open');
-  $('.btn-close-menu').click(function() {
-    $('body').removeClass('menu-open');
-  });
-  $('.overlay').click(function() {
-    $('body').removeClass('menu-open');
-  });
-  $('.main-navigation').prepend('');
-  $('.main-navigation ul .menu-item-has-children').app
-});
